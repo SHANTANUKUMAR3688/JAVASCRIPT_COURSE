@@ -1,0 +1,308 @@
+Here’s a **complete roadmap of JavaScript topics**, from beginner to advanced, organized step-by-step.
+
+---
+
+# 🟢 1. JavaScript Basics
+
+* What is JavaScript?
+* How JS works in browser vs Node.js
+* Variables (`var`, `let`, `const`)
+* Data Types
+
+  * Primitive (string, number, boolean, null, undefined, bigint, symbol)
+  * Non-primitive (objects, arrays)
+* Operators
+
+  * Arithmetic
+  * Comparison
+  * Logical
+  * Assignment
+  * Ternary
+* Type Conversion & Coercion
+* Comments
+* Strict Mode (`"use strict"`)
+
+---
+
+# 🟢 2. Control Flow
+
+* `if`, `else if`, `else`
+* `switch`
+* Loops
+
+  * `for`
+  * `while`
+  * `do...while`
+  * `for...in`
+  * `for...of`
+* `break` & `continue`
+
+---
+
+# 🟢 3. Functions
+
+* Function Declaration
+* Function Expression
+* Arrow Functions
+* Parameters & Arguments
+* Default Parameters
+* Rest & Spread (`...`)
+* Return Statement
+* Higher-Order Functions
+* Callback Functions
+* IIFE (Immediately Invoked Function Expression)
+* Pure vs Impure Functions
+
+---
+
+# 🟢 4. Arrays
+
+* Creating Arrays
+* Array Methods
+
+  * `push`, `pop`
+  * `shift`, `unshift`
+  * `map`, `filter`, `reduce`
+  * `forEach`
+  * `find`, `findIndex`
+  * `some`, `every`
+  * `includes`
+  * `slice`, `splice`
+  * `sort`, `reverse`
+* Destructuring Arrays
+
+---
+
+# 🟢 5. Objects
+
+* Object Literals
+* Accessing Properties
+* Nested Objects
+* Object Methods
+* `this` keyword
+* Object Destructuring
+* Object Methods
+
+  * `Object.keys()`
+  * `Object.values()`
+  * `Object.entries()`
+  * `Object.assign()`
+* Optional Chaining (`?.`)
+* Nullish Coalescing (`??`)
+
+---
+
+# 🟢 6. DOM (Browser JavaScript)
+
+* What is DOM?
+* Selecting Elements
+
+  * `getElementById`
+  * `querySelector`
+  * `querySelectorAll`
+* Changing Content & Attributes
+* Creating & Removing Elements
+* Event Handling
+
+  * `click`, `input`, `submit`
+  * `addEventListener`
+* Event Bubbling & Capturing
+* Event Delegation
+* Forms Handling
+
+---
+
+# 🟢 7. ES6+ (Modern JavaScript)
+
+* `let` & `const`
+* Arrow Functions
+* Template Literals
+* Destructuring
+* Spread & Rest Operator
+* Modules (`import`, `export`)
+* Default & Named Exports
+* Classes
+* Promises
+* `async/await`
+
+---
+
+# 🟢 8. Asynchronous JavaScript
+
+* Synchronous vs Asynchronous
+* Callbacks
+* Callback Hell
+* Promises
+
+  * `.then()`
+  * `.catch()`
+  * `.finally()`
+* `async/await`
+* Fetch API
+* Error Handling (`try...catch`)
+* Event Loop
+* Call Stack
+* Microtasks vs Macrotasks
+
+---
+
+# 🟢 9. Advanced JavaScript
+
+* Execution Context
+* Hoisting
+* Scope (Global, Function, Block)
+* Closures
+* Prototypes
+* Prototype Chain
+* `call`, `apply`, `bind`
+* Currying
+* Debouncing & Throttling
+* Memoization
+* Deep vs Shallow Copy
+
+---
+
+# 🟢 10. OOP in JavaScript
+
+* Constructor Functions
+* Classes
+* `constructor` method
+* Inheritance
+* `super`
+* Encapsulation
+* Polymorphism
+* Abstraction
+* Getters & Setters
+* Static Methods
+
+---
+
+# 🟢 11. Error Handling & Debugging
+
+* `try`, `catch`, `finally`
+* Throwing Errors
+* Custom Errors
+* Debugging in Browser DevTools
+* Console Methods
+
+---
+
+# 🟢 12. JavaScript in Browser APIs
+
+* Web Storage (`localStorage`, `sessionStorage`)
+* Cookies
+* Fetch API
+* Geolocation API
+* Web APIs
+* Timers
+
+  * `setTimeout`
+  * `setInterval`
+
+---
+
+# 🟢 13. JavaScript in Node.js
+
+* What is Node.js?
+* NPM (Node Package Manager)
+* Modules in Node
+* File System (fs module)
+* HTTP Module
+* Express.js Basics
+* Environment Variables
+* Middleware
+* REST APIs
+
+---
+
+# 🟢 14. JavaScript Frameworks & Libraries
+
+* What is a Library vs Framework?
+* React
+* Angular
+* Vue.js
+* Next.js
+* Express.js
+
+---
+
+# 🟢 15. Data Structures & Algorithms in JS
+
+* Stack
+* Queue
+* Linked List
+* Hash Table
+* Trees
+* Graphs
+* Recursion
+* Sorting Algorithms
+* Searching Algorithms
+* Big O Notation
+
+---
+
+# 🟢 16. Testing in JavaScript
+
+* Unit Testing
+* Integration Testing
+* Jest
+* Mocha
+* Chai
+* Test-Driven Development (TDD)
+
+---
+
+# 🟢 17. Performance Optimization
+
+* Code Splitting
+* Lazy Loading
+* Minification
+* Tree Shaking
+* Memory Management
+* Avoiding Memory Leaks
+
+---
+
+# 🟢 18. Security in JavaScript
+
+* XSS (Cross-Site Scripting)
+* CSRF
+* CORS
+* Input Validation
+* Authentication & Authorization
+* JWT (JSON Web Tokens)
+
+---
+
+# 🟢 19. TypeScript (Optional but Recommended)
+
+* What is TypeScript?
+* Types
+* Interfaces
+* Generics
+* Enums
+* Type Narrowing
+* TS with React
+
+---
+
+# 🟢 20. Build Tools & Package Managers
+
+* npm
+* yarn
+* Webpack
+* Vite
+* Babel
+* ESLint
+* Prettier
+
+---
+
+If you want, I can:
+
+* ✅ Create a **beginner-to-advanced 6 month roadmap**
+* ✅ Give you a **PDF-style structured study plan**
+* ✅ Provide **interview preparation topics**
+* ✅ Give **project ideas level by level**
+
+Tell me your level (Beginner / Intermediate / Advanced).

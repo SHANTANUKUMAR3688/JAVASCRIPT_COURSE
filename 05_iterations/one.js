@@ -47,3 +47,36 @@ for (let index = 1; index <= 20; index++) {
    console.log(`Value of i is ${index}`);
     
 }
+
+
+for (let i = 1; i <= 5; i++) {
+  let row = "";
+
+  for (let j =1;j<= 5;j++) {
+    row += "* ";
+  }
+
+  console.log(row);
+}
+
+
+for (let i = 1; i <= 5; i++) {
+  let row = "";
+
+  for (let j =1;j<= i;j++) {
+    row += "* ";
+  }
+
+  console.log(row);
+}
+
+for (let i = 1; i <= 5; i++) {
+  let row = "";
+
+  for (let j =i;j<= 5;j++) {
+    row += "* ";
+  }
+
+  console.log(row);
+}
+

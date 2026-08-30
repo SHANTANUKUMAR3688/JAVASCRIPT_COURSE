@@ -1,1 +1,4 @@
-console.log("Hitesh")
+let a="hello";
+console.log(a,"shan");
+
+console.log(`${a} shan`);

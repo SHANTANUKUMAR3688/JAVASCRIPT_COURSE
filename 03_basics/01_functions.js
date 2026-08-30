@@ -30,7 +30,7 @@ const result = addTwoNumbers(3, 5)
 function loginUserMessage(username = "sam"){
     if(!username){
         console.log("PLease enter a username");
-        return
+        //return
     }
     return `${username} just logged in`
 }
